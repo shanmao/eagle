@@ -1,1 +1,2 @@
 one:you are not alone.
+two:i am here with you.
